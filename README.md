@@ -1,2 +1,2 @@
-# Student-Mentor-Backend
-Backend version of the student mentor mapping application
+# Student-Mentor-Mapping-API
+A Simple api in Node js to map students to mentors and mentors to students
